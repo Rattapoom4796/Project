@@ -4,7 +4,7 @@ const jwt = require("jsonwebtoken");
 const bcrypt = require ("bcryptjs");
 const multer = require('multer');
 const path = require('path');
-const Course = require('../models/course');
+
 
 
 //upload img
